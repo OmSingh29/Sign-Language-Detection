@@ -6,7 +6,7 @@ python collectdata.py
 ```
 Webcam window will open, in blue window make appropriate sign and then press character associated with it on keyboard, this will record image , number of key presses = number of images recorded.
 
-2) Then convert images to numpy array, run:
+2) Then to convert images to numpy array, run:
 ```
 python data.py
 ```
